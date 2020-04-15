@@ -1,0 +1,20 @@
+body {
+    background-color: color(happy-hour);
+    font-size: 25px;
+    color: color(fun);
+    #box {
+      width: $box-size;
+      height: $box-size;
+      background-color: color(summer);
+    }
+  }
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: color(cocktail);
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: color(sunset);
+}

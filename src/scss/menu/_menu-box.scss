@@ -1,0 +1,14 @@
+nav {
+    li {
+      list-style: none;
+      text-decoration: none;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 24px;
+    }
+    a {
+      color: rgb(231, 120, 101);
+      &:hover {
+        background-color: rgb(163, 30, 30);
+      }
+    }
+  }
